@@ -6,7 +6,7 @@ title: Piano Player — Privacy Policy
 
 **Effective date:** October 14, 2026
 
-This privacy policy explains how the Android app **Piano Player** (package `com.pianoplayer`, "the app") handles your information. The app is developed and published by **Oleksandr Serkin** ("I", "me", "the developer").
+This privacy policy explains how the Android app **Piano Player** (package `com.pianoplayer`, "the app") handles your information. The app is developed and published by **Oleksandr Serkin** ("the developer").
 
 ## Summary
 
